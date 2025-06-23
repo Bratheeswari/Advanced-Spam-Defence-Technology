@@ -28,14 +28,22 @@ This system is part of a broader study to tackle modern spam threats and enhance
 ---
 
 📁 File Structure
-├── app.py # Streamlit app for spam detection
-├── train_model.py # Script to train the model
-├── spam.csv # Dataset containing SMS labeled as spam/ham
-├── spam_fil_model.pkl # Pre-trained model (Multinomial Naive Bayes)
-├── tfidf_vectorizer.pkl # Pre-fitted TF-IDF vectorizer
-├── Advanced Spam Defence Technology.ipynb # Jupyter Notebook for analysis
-├── Cutting-Edge Spam Defense Technology Project Report.pdf
-├── spam filtering_base paper.pdf
+
+ app.py # Streamlit app for spam detection
+ 
+train_model.py # Script to train the model
+
+spam.csv # Dataset containing SMS labeled as spam/ham
+
+spam_fil_model.pkl # Pre-trained model (Multinomial Naive Bayes)
+
+tfidf_vectorizer.pkl # Pre-fitted TF-IDF vectorizer
+
+Advanced Spam Defence Technology.ipynb # Jupyter Notebook for analysis
+
+Cutting-Edge Spam Defense Technology Project Report.pdf
+
+spam filtering_base paper.pdf
 
 
 1.Install dependencies
