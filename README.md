@@ -45,14 +45,10 @@ Cutting-Edge Spam Defense Technology Project Report.pdf
 
 spam filtering_base paper.pdf
 
+1️⃣pip install -r requirements.txt
 
-1.Install dependencies
 
-pip install -r requirements.txt
-
-2.Run the app
-
-streamlit run app.py
+2️⃣streamlit run app.py
 
 📊 Dataset
 The project uses a labeled dataset (spam.csv) containing SMS messages marked as:
@@ -67,9 +63,15 @@ Stemming
 TF-IDF vectorization
 
 🧪 Model Performance
+
 The Multinomial Naive Bayes model was evaluated using:
+
 Accuracy
+
 Precision
+
 Recall
+
 F1-score
+
 Typically achieves 95–98% accuracy on standard SMS spam datasets.
